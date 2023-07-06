@@ -15,7 +15,6 @@
 ![Alt text](imgs/image.png)
 
 ### 1.3软件设计
-[代码传递门](基于8051的数字体温计\test.a51)
 ![Alt text](imgs/image99.png)
 
 
