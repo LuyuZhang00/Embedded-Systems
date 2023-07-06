@@ -1,0 +1,1 @@
+"./main.obj" "./dr_tft2.obj" "./dr_tft.obj" "./USCI.obj" -l"libc.a" "../lnk_msp430f6638.cmd" 
